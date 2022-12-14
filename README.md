@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pinku Agrawal</h1>
-<h3 align="center">I am second year electronics student interesting in learning new technologies.</h3>
+<h3 align="center">I am second year electronics student interesting in learning new technologies.<br>I want to become a full-stack web developer.<br>I am new to open source contribution but i will make a lot of projects to achieve success in it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkuagrawal28&label=Profile%20views&color=0e75b6&style=flat" alt="pinkuagrawal28" /> </p>
 
