@@ -1,12 +1,6 @@
-<style type="text/css">
-  .center{
-  margin-left:auto;
-  margin-right:auto;
-  }
-  </style>
 <h1 align="center">Hi 👋, I'm Pinku Agrawal</h1>
 <h3 align="center">I am second year electronics student interesting in learning new technologies.<br>I want to become a full-stack web developer.<br>I am new to open source contribution but i will make a lot of projects to achieve success in it.</h3>
-<img src="https://avatars.githubusercontent.com/u/92142824?s=400&u=dfb2bbf8b9f6d67c5e610abf061cba180aab825f&v=4" height="300px" class="center">
+<img src="https://avatars.githubusercontent.com/u/92142824?s=400&u=dfb2bbf8b9f6d67c5e610abf061cba180aab825f&v=4" height="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkuagrawal28&label=Profile%20views&color=0e75b6&style=flat" alt="pinkuagrawal28" /> </p>
 
