@@ -16,10 +16,7 @@
   <img src=" " align="right">
 ---
 - ### Random:
-  <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote>
-  My Fav Tech Stack: Go+HTMX
-  I don't use Arch btw
-  
+  <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote> 
 ---  
 - ### I am Currently:
   - 🖥️ coding:
@@ -47,10 +44,12 @@
 - ### Community:
 ---
 - ### Off The Code:
+  - My Fav Tech Stack: Go+HTMX
+  - Research Writing : 
 ---
 - ### GitHub Stats:
-  ![Pinkuagrawal28's Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  ![Pinkuagrawal28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false)
 ---
 - ### Let's Connect:
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
