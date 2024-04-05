@@ -3,7 +3,7 @@
 </div>
 
 ---
-<img src="./Assets/Portfolio.png" align="right" height = "270px">
+<img src="./Assets/Portfolio.png" align="right" height = "250px">
 
 - ### About Me:
   - **Name :** Pinku Kumar Agrawal
