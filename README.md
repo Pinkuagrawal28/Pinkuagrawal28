@@ -13,7 +13,7 @@
   - **GitHub Campus Expert :triangular_flag_on_post:** at <a href="https://githubcampus.expert/">GitHub Education</a>
   - **How to reach** me **pinkuagarwal2831@gmail.com**
  
-  <img src=" " align="right">
+  <img src="./Assets/Portfolio.png" align="right">
 ---
 - ### Random:
   <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote> 
