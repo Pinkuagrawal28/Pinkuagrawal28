@@ -1,13 +1,54 @@
 <div>
-<h1 align="Center">I am Pinku Kumar Agrawal</h1>
+ <h1 align="Center">I am Pinku Kumar Agrawal 🔰</h1>
 </div>
 
-- ### About Me
-- ### Random
-- ### I am Currently
-- ### Projects
-- ### Content
-- ### Community
-- ### Off The Code
-- ### GitHub Stats
-- ### Let's Connect
+---
+- ### About Me:
+  - **Name :** Pinku Kumar Agrawal
+  - **Pronouns:** He/him
+  - **Location:** Kolkata, 🇮🇳:
+  - **Language**: Hindi, English
+  - **Experience:** 1+ Years in Web Development, Electronics Student, AI & ML, Research, DevRel
+  - **Job:** Developer Advocate @ Central DAO
+---
+- ### Random:
+  <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote>
+  My Fav Tech Stack: Go+HTMX
+  I don't use Arch btw
+  
+---  
+- ### I am Currently:
+  - 🖥️ coding:
+  - 🌱 learning:
+  - 📚 Reading: 
+  - ⌛ Building:
+  - 🎵 Listening:
+---
+- ### Skills:
+  ```
+  {
+  Mobile: [Android(Java & Kotlin), Jetpack Compose],
+  Web: [Next.js, React.js, HTML, CSS, JS],
+  Blockchain: [Solana],
+  Languages: [Kotlin, Java, Rust, JavaScript, TypeScript, Python, C/C++],
+  Databases: [Firebase(Cloud Firestore & The Realtime Database), MySQL],
+  Tools: [Git, Postman, Figma]
+  }
+  ```
+---
+- ### Projects:
+---
+- ### Content:
+---
+- ### Community:
+---
+- ### Off The Code:
+---
+- ### GitHub Stats:
+  ![Pinkuagrawal28's Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![Pinkuagrawal28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false)
+---
+- ### Let's Connect:
+  <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
+  <a href=""><img src="https://img.shields.io/badge/- Connect : Pinku Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+---
