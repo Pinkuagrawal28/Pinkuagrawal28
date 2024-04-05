@@ -44,8 +44,10 @@
 - ### Community:
 ---
 - ### Off The Code:
+  <!--
   - My Fav Tech Stack: Go+HTMX
-  - Research Writing : 
+  -->
+  - Research Writing :
 ---
 - ### GitHub Stats:
   ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
@@ -54,7 +56,8 @@
 - ### Let's Connect:
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
   <a href=""><img src="https://img.shields.io/badge/- Connect : Pinku Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <!--
   <a href=""><img src="https://img.shields.io/badge/My Resume : Read.Cv-000000?style=flat-square&logo=Read.cv"></a>
   <a href=""><img src="https://img.shields.io/badge/My Bento : Pinku Kumar Agrawal-eb3477?style=flat-square&logo=Bento"></a>
-
+  -->
 ---
