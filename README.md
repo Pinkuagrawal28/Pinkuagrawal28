@@ -5,11 +5,15 @@
 ---
 - ### About Me:
   - **Name :** Pinku Kumar Agrawal
-  - **Pronouns:** He/him
-  - **Location:** Kolkata, 🇮🇳:
-  - **Language**: Hindi, English
-  - **Experience:** 1+ Years in Web Development, Electronics Student, AI & ML, Research, DevRel
-  - **Job:** Developer Advocate @ Central DAO
+  - **Pronouns :** He/him
+  - **Location :** Kolkata, 🇮🇳:
+  - **Language :** Hindi, English
+  - **Ask Me About :** Web Development, Electronics, AI & ML, Research, DevRel, Web3
+  - **Job :** Developer Advocate @ Central DAO
+  - **GitHub Campus Expert :triangular_flag_on_post:** at <a href="https://githubcampus.expert/">GitHub Education</a>
+  - **How to reach** me **pinkuagarwal2831@gmail.com**
+ 
+  <img src=" " align="right">
 ---
 - ### Random:
   <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote>
@@ -51,4 +55,7 @@
 - ### Let's Connect:
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
   <a href=""><img src="https://img.shields.io/badge/- Connect : Pinku Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/My Resume : Read.Cv-000000?style=flat-square&logo=Read.cv"></a>
+  <a href=""><img src="https://img.shields.io/badge/My Bento : Pinku Kumar Agrawal-eb3477?style=flat-square&logo=Bento"></a>
+
 ---
