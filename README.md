@@ -49,18 +49,18 @@
   <!--
   > Join My Community on Discord :
   > Follow on Instagram :
-  > Join GitHub Developer Student Pack : 
+  > Join GitHub Developer Student Pack :
   > Join Central DAO Telegram Community :
   > Join Central DAO Discord Server :
   -->
 ---
 - ### Off The Code:
-  <!---
-  - My Fav Tech Stack: Go+HTMX
-  - Founder, QuarkSchool
-  - Join Quark School as a founding team
+  <!--
+  - My Fav Tech Stack: Remember the kung fu panda line.
+  - Building QuarkSchool, Join as a founding member
   - Research Writing : 
-  - I know Binary, I rate myself a 0x10 on it. -->
+  - I know Binary, I rate myself a 0bx10 on it. Want to Learn Boolean Algebra and More?
+  -->
 ---
 - ### GitHub Stats:
   | Stats | Streak |
