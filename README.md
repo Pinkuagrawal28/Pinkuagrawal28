@@ -43,7 +43,7 @@
   - Don't know where to get started:
   - Blogs for Electronics:
   - Blogs for Developers:
-  - My Youtube Channel:
+  - My Youtube Channel: -->
 ---
 - ### Community:
   <!--
