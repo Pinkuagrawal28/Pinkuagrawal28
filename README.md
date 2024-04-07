@@ -36,6 +36,7 @@
   }
   ```
 ---
+<!--
 - ### Projects:
 ---
 - ### Content:
@@ -44,6 +45,7 @@
   - Blogs for Electronics:
   - Blogs for Developers:
   - My Youtube Channel: -->
+  <!--
 ---
 - ### Community:
   <!--
@@ -53,6 +55,7 @@
   > Join Central DAO Telegram Community :
   > Join Central DAO Discord Server :
   -->
+  <!--
 ---
 - ### Off The Code:
   <!--
@@ -61,7 +64,9 @@
   - Research Writing : 
   - I know Binary, I rate myself a 0bx10 on it. Want to Learn Boolean Algebra and More?
   -->
+  <!--
 ---
+-->
 - ### GitHub Stats:
   | Stats | Streak |
   | ------- | ------- |
