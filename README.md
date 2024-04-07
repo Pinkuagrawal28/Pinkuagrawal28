@@ -11,32 +11,30 @@
   - **Location :** Kolkata, 🇮🇳:
   - **Language :** Hindi, English
   - **Ask Me About :** Web Development, Electronics, AI & ML, Research, DevRel, Web3
-  - **GitHub Campus Expert :triangular_flag_on_post:** at <a href="https://githubcampus.expert/">GitHub Education</a>
+  - **GitHub Campus Expert :triangular_flag_on_post:**
   - **How to reach** me **pinkuagarwal2831@gmail.com**
 ---
 - ### Random:
-  <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote> 
+  <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to add two numbers"</p></blockquote> 
 ---  
 - ### I am Currently:
-  - 🖥️ coding in: Python, Javascript & Ruby. 
+  - 🖥️ coding: BlogX & Netflix Clone
   - 🌱 learning: Signal processing, Authentication and Javascript.
   - 📚 Reading: "No Longer Human" by Osamu Dazai.
   - ⌛ Building: QuarkSchool & ComSource
   - 🎵 Listening: Jaun Elia & Nusrat Fateh Ali Khan
 ---
 - ### Skills:
-  <!--
   ```
   {
-  Mobile: [Android(Java & Kotlin), Jetpack Compose],
-  Web: [Next.js, React.js, HTML, CSS, JS],
-  Blockchain: [Solana],
-  Languages: [Kotlin, Java, Rust, JavaScript, TypeScript, Python, C/C++],
-  Databases: [Firebase(Cloud Firestore & The Realtime Database), MySQL],
-  Tools: [Git, Postman, Figma]
+    Languages: [C/C++, Python, JavaScript, Ruby, SQL, Solidity],
+    Web: [HTML, CSS, RESTful API, ReactJs, ExpressJs]
+    Framework: [Node.Js, Next.Js, Django, Hardhat]
+    Tools: [Git, Github, Visual Studio Code, Developer Console, WSL, Postman, Figma]
+    Database: [MongoDB, PostgreSQL, Prisma]
+    ML: [Pytorch, TensorFlow, Numpy, Pandas]
   }
   ```
-  -->
 ---
 - ### Projects:
 ---
@@ -57,12 +55,12 @@
   -->
 ---
 - ### Off The Code:
-  <!--
+  <!---
   - My Fav Tech Stack: Go+HTMX
   - Founder, QuarkSchool
-  - Join Quark School
-  -->
-  - Research Writing :
+  - Join Quark School as a founding team
+  - Research Writing : 
+  - I know Binary, I rate myself a 0x10 on it. -->
 ---
 - ### GitHub Stats:
   | Stats | Streak |
