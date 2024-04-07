@@ -11,7 +11,6 @@
   - **Location :** Kolkata, 🇮🇳:
   - **Language :** Hindi, English
   - **Ask Me About :** Web Development, Electronics, AI & ML, Research, DevRel, Web3
-  - **Job :** Developer Advocate @ Central DAO
   - **GitHub Campus Expert :triangular_flag_on_post:** at <a href="https://githubcampus.expert/">GitHub Education</a>
   - **How to reach** me **pinkuagarwal2831@gmail.com**
 ---
@@ -26,6 +25,7 @@
   - 🎵 Listening:
 ---
 - ### Skills:
+  <!--
   ```
   {
   Mobile: [Android(Java & Kotlin), Jetpack Compose],
@@ -36,22 +36,38 @@
   Tools: [Git, Postman, Figma]
   }
   ```
+  -->
 ---
 - ### Projects:
 ---
 - ### Content:
+  <!--
+  - Don't know where to get started:
+  - Blogs for Electronics:
+  - Blogs for Developers:
+  - My Youtube Channel:
 ---
 - ### Community:
+  <!--
+  > Join My Community on Discord :
+  > Follow on Instagram :
+  > Join GitHub Developer Student Pack : 
+  > Join Central DAO Telegram Community :
+  > Join Central DAO Discord Server :
+  -->
 ---
 - ### Off The Code:
   <!--
   - My Fav Tech Stack: Go+HTMX
+  - Founder, QuarkSchool
+  - Join Quark School
   -->
   - Research Writing :
 ---
 - ### GitHub Stats:
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false)
+  | Stats | Streak |
+  | ------- | ------- |
+  | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false) |
 ---
 - ### Let's Connect:
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
