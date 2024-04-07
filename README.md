@@ -15,14 +15,14 @@
   - **How to reach** me **pinkuagarwal2831@gmail.com**
 ---
 - ### Random:
-  <blockquote><p align="center">"I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote> 
+  <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to sum up two numbers"</p></blockquote> 
 ---  
 - ### I am Currently:
-  - 🖥️ coding:
-  - 🌱 learning:
-  - 📚 Reading: 
-  - ⌛ Building:
-  - 🎵 Listening:
+  - 🖥️ coding in: Python, Javascript & Ruby. 
+  - 🌱 learning: Signal processing, Authentication and Javascript.
+  - 📚 Reading: "No Longer Human" by Osamu Dazai.
+  - ⌛ Building: QuarkSchool & ComSource
+  - 🎵 Listening: Jaun Elia & Nusrat Fateh Ali Khan
 ---
 - ### Skills:
   <!--
