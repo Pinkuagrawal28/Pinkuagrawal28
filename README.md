@@ -31,15 +31,13 @@
   - 🎵 Listening: Jaun Elia & Nusrat Fateh Ali Khan
 ---
 - ### Skills:
-  ```
-  {
-    Languages: [C/C++, Python, JavaScript, Ruby, SQL, Solidity],
+  ```yaml
+    Languages: [C/C++, Python, JavaScript, Ruby, SQL, Solidity]
     Web: [HTML, CSS, RESTful API, ReactJs, ExpressJs]
     Framework: [Node.Js, Next.Js, Django, Hardhat]
     Tools: [Git, Github, Visual Studio Code, Developer Console, WSL, Postman, Figma]
     Database: [MongoDB, PostgreSQL, Prisma]
     ML: [Pytorch, TensorFlow, Numpy, Pandas]
-  }
   ```
 ---
 <!--
