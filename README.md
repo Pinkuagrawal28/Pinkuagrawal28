@@ -1,6 +1,12 @@
 <div>
- <h1 align="Center">I am Pinku Kumar Agrawal 🔰</h1>
+ <h1 align="Center">Hello Everyone, I am Pinku Kumar Agrawal 🔰</h1>
 </div>
+
+<!--
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;I+am+Pinku+Kumar+Agrawal+🔰"; />
+</h1>
+-->
 
 ---
 <img src="./Assets/Portfolio.png" align="right" height = "250px">
@@ -80,3 +86,6 @@
   <a href=""><img src="https://img.shields.io/badge/My Bento : Pinku Kumar Agrawal-eb3477?style=flat-square&logo=Bento"></a>
   -->
 ---
+<!-- Resources 
+|<img align="left" src="https://komarev.com/ghpvc/?username=Pinkuagrawal28" />|
+-->
