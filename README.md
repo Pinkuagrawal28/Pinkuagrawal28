@@ -66,6 +66,7 @@
   - Building QuarkSchool, Join as a founding member
   - Research Writing : 
   - I know Binary, I rate myself a 0bx10 on it. Want to Learn Boolean Algebra and More?
+  - [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
   -->
   <!--
 ---
