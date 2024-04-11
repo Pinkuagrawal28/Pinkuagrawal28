@@ -1,5 +1,5 @@
  <h1 align="Center">Hello Everyone, I am Pinku Kumar Agrawal 🔰</h1>
- <img src="./Assets/Linkedin cover me.png" height = "235px">
+ <img src="./Assets/Linkedin cover me.png" height = "230px">
 
 <!--
 <h1 align="center">
