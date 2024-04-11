@@ -93,6 +93,9 @@
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
   <a href=""><img src="https://img.shields.io/badge/- Connect : Pinku Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <!--
+  [![Instagram Badge](https://img.shields.io/badge/-@_toukirkhan___-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toukirkhan__/)](https://instagram.com/toukirkan__)
+  [![Gmail Badge](https://img.shields.io/badge/-totykhan.2001@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001@gmail.com)
+  for website also
   <a href=""><img src="https://img.shields.io/badge/My Resume : Read.Cv-000000?style=flat-square&logo=Read.cv"></a>
   <a href=""><img src="https://img.shields.io/badge/My Bento : Pinku Kumar Agrawal-eb3477?style=flat-square&logo=Bento"></a>
   -->
