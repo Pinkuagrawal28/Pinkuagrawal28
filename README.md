@@ -1,6 +1,5 @@
-<div>
  <h1 align="Center">Hello Everyone, I am Pinku Kumar Agrawal 🔰</h1>
-</div>
+ ![Banner Image](your_banner_image_url_here)
 
 <!--
 <h1 align="center">
