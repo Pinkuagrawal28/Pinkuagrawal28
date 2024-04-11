@@ -20,7 +20,9 @@
   - **How to reach** me **pinkuagarwal2831@gmail.com**
 ---
 - ### Random:
-  <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to add two numbers"</p></blockquote> 
+  <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to add two numbers"</p></blockquote>
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pinku_agrawal28&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ---  
 - ### I am Currently:
   - 🖥️ coding: BlogX & Netflix Clone
@@ -90,4 +92,40 @@
 ---
 <!-- Resources 
 |<img align="left" src="https://komarev.com/ghpvc/?username=Pinkuagrawal28" />|
+नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh!
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
+
 -->
