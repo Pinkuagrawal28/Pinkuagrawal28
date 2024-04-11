@@ -76,6 +76,9 @@
   | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false) |
 ---
 - ### Let's Connect:
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  </br>
+  </br>
   <a href="https://twitter.com/Pinku_agrawal28"><img src="https://img.shields.io/twitter/follow/:Pinku_agrawal28"></a>
   <a href=""><img src="https://img.shields.io/badge/- Connect : Pinku Agrawal-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <!--
