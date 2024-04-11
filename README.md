@@ -8,8 +8,14 @@
 -->
 
 ---
-<img src="./Assets/Portfolio.png" align="right" height = "250px">
+<details>
 
+<img src="./Assets/Portfolio.png" align="right" height = "250px">
+ 
+<summary>
+  More stuff about me
+</summary>
+ 
 - ### About Me:
   - **Name :** Pinku Kumar Agrawal
   - **Pronouns :** He/him
@@ -21,8 +27,6 @@
 ---
 - ### Random:
   <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to add two numbers"</p></blockquote>
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pinku_agrawal28&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ---  
 - ### I am Currently:
   - 🖥️ coding: BlogX & Netflix Clone
@@ -129,3 +133,4 @@ me.say_hi()
 
 
 -->
+</details>
