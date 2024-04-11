@@ -1,5 +1,5 @@
  <h1 align="Center">Hello Everyone, I am Pinku Kumar Agrawal 🔰</h1>
- ![Banner Image](your_banner_image_url_here)
+ <img src="./Assets/Linkedin cover me.png" height = "250px">
 
 <!--
 <h1 align="center">
