@@ -76,6 +76,15 @@ echo "Let's proceed!\n";
   <!--
 ---
 -->
+<!--
+## Decision
+Make a decision. What do you want to do now?
+1. Hire me? Send me an e-mail: pinkuagarwal2831@gmail.com.
+2. Request a mentorship? Hit me up on social media.
+3. Wish to collaborate? Sure, let's discuss it. My links are above.
+4. Talk to me? I'm a text away.
+-->
+
 - ### GitHub Stats:
   | Stats | Streak |
   | ------- | ------- |
