@@ -2,6 +2,10 @@
  <img src="./Assets/Linkedin cover me.png" height = "215px">
 
 ---
+```php
+echo "Let's proceed!\n";
+```
+
 <details>
 
 <img src="./Assets/Portfolio.png" align="right" height = "250px">
