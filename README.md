@@ -90,6 +90,14 @@ Make a decision. What do you want to do now?
   | ------- | ------- |
   | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false) |
 ---
+</details>
+
+<details>
+
+<summary>
+ Connect With Me
+</summary>
+
 - ### Let's Connect:
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   <!--
