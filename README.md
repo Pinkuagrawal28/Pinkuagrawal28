@@ -89,6 +89,8 @@ Make a decision. What do you want to do now?
   | Stats | Streak |
   | ------- | ------- |
   | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false) |
+
+  [![Pinku Agrawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pinkuagrawal28&theme=react-dark)](https://github.com/Pinkuagrawal28/github-readme-activity-graph)
 ---
 </details>
 
