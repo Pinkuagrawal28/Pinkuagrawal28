@@ -1,7 +1,9 @@
  <h1 align="Center">Hello Everyone 👋, I am Pinku Kumar Agrawal 🔰</h1>
+ <img src="https://github.com/Pinkuagrawal28/Pinkuagrawal28/blob/main/Assets/Pinku-Agrawal.png">
  <img src="./Assets/Linkedin cover me.png" height = "215px">
-
+ 
 ---
+
 ```php
 echo "Let's proceed!\n";
 ```
