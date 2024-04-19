@@ -10,6 +10,9 @@ echo "Let's proceed!\n";
 
 <img src="./Assets/Portfolio.png" align="right" height = "250px">
 <!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
+<a href="https://app.daily.dev/alwinjohn">
+    <img src="https://api.daily.dev/devcards/v2/iKGTIaVmt.png?type=default&r=p0y" width="356" alt="ALWIN JOHN's Dev Card"/>
+  </a>
 -->
  
 <summary>
@@ -94,6 +97,32 @@ Make a decision. What do you want to do now?
 
   [![Pinku Agrawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pinkuagrawal28&theme=react-dark)](https://github.com/Pinkuagrawal28/github-readme-activity-graph)
 ---
+<!--
+- ### 💻 Coding Profiles:
+  <p align="center">
+  <a href="https://www.hackerrank.com/DextersHub"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@Dexters-Hub"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://leetcode.com/Dexters-Hub/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/dexters_hub"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/Dexters-Hub"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"><a/>
+  <a href="https://codeforces.com/profile/Dexters-Hub"><img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"><a/>
+  </p>
+
+  <p align="center">
+  <a href="https://leetcode.com/Dexters-Hub/">
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=Dexters-Hub&theme=dark" width="400"/>
+  </a>
+  </p>
+---
+-->
+
+- ### GitHub Achievements:
+  <p align="center">
+   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Pinkuagrawal28&row=1&theme=discord"></a>
+  </p>
+
+---
+
 </details>
 
 <details>
