@@ -9,6 +9,8 @@ echo "Let's proceed!\n";
 <details>
 
 <img src="./Assets/Portfolio.png" align="right" height = "250px">
+<!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
+-->
  
 <summary>
   More stuff about me
