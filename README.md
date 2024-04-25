@@ -10,7 +10,7 @@
  ---
 
 
-```php
+```bash
 echo "Let's proceed!\n";
 ```
 
