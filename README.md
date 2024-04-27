@@ -65,7 +65,7 @@ echo "Let's proceed!\n";
 
 <details>
 
-<summary>details</summary>
+<summary>Skills</summary>
 
 - ### Skills:
   ```yaml
