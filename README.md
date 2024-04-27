@@ -24,7 +24,7 @@ echo "Let's proceed!\n";
 -->
  
 <summary>
-  More stuff about me
+  About Me
 </summary>
  
 - ### About Me:
@@ -36,9 +36,23 @@ echo "Let's proceed!\n";
   - **GitHub Campus Expert :triangular_flag_on_post:**
   - **How to reach** me **pinkuagarwal2831@gmail.com**
 ---
+
+</details>
+
+<details>
+
+<summary>Random Things</summary>
+
 - ### Random:
   <blockquote><p align="center">"Why Bother to Code, I prefer manually passing current through the circuit, to add two numbers"</p></blockquote>
 ---  
+
+</details>
+
+<details>
+
+<summary>I am Currently</summary>
+
 - ### I am Currently:
   - 🖥️ coding: BlogX & Netflix Clone
   - 🌱 learning: Signal processing, Authentication and Javascript.
@@ -46,6 +60,13 @@ echo "Let's proceed!\n";
   - ⌛ Building: QuarkSchool & ComSource
   - 🎵 Listening: Jaun Elia & Nusrat Fateh Ali Khan
 ---
+
+</details>
+
+<details>
+
+<summary>details</summary>
+
 - ### Skills:
   ```yaml
     Languages: [C/C++, Python, JavaScript, Ruby, SQL, Solidity]
@@ -56,6 +77,9 @@ echo "Let's proceed!\n";
     ML: [Pytorch, TensorFlow, Numpy, Pandas]
   ```
 ---
+
+</details>
+
 <!--
 - ### Projects:
 ---
@@ -98,6 +122,10 @@ Make a decision. What do you want to do now?
 4. Talk to me? I'm a text away.
 -->
 
+<details>
+
+<summary>GitHub Stats</summary>
+
 - ### GitHub Stats:
   | Stats | Streak |
   | ------- | ------- |
@@ -105,6 +133,9 @@ Make a decision. What do you want to do now?
 
   [![Pinku Agrawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pinkuagrawal28&theme=react-dark)](https://github.com/Pinkuagrawal28/github-readme-activity-graph)
 ---
+
+</details>
+
 <!--
 - ### 💻 Coding Profiles:
   <p align="center">
@@ -123,6 +154,10 @@ Make a decision. What do you want to do now?
   </p>
 ---
 -->
+
+<details>
+
+<summary>GitHub Achievements</summary>
 
 - ### GitHub Achievements:
   <p align="center">
