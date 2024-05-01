@@ -129,11 +129,14 @@ Make a decision. What do you want to do now?
 - ### GitHub Stats:
   | Stats | Streak |
   | ------- | ------- |
-  | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false) |
+  | ![Stats](https://github-readme-stats.vercel.app/api?username=Pinkuagrawal28&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) | ![Streak](https://streak-stats.demolab.com?user=Pinkuagrawal28&theme=dark) |
 
   [![Pinku Agrawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pinkuagrawal28&theme=react-dark)](https://github.com/Pinkuagrawal28/github-readme-activity-graph)
----
 
+  <!-- ![Over All Stats](https://myreadme.vercel.app/api/embed/Pinkuagrawal28?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark) -->
+---
+<!--https://streak-stats.demolab.com?user=rohitkumarPinkuagrawal28&theme=dark
+https://github-readme-streak-stats.herokuapp.com/?user=Pinkuagrawal28&theme=vue-dark&hide_border=false -->
 </details>
 
 <!--
